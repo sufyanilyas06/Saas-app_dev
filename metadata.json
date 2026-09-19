@@ -1,0 +1,7 @@
+{
+  "name": "FreshPOS - Cloud Retail & Inventory System",
+  "description": "High-velocity cloud retail Point of Sale, multi-lane checkout, real-time inventory reconciliation, and store owner analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
